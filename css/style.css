@@ -1375,7 +1375,7 @@ html, body {
   align-items: center;
 }
 .footer__item {
-  margin-right: 50px;
+  margin: 0 25px;
 }
 .footer__item:last-child {
   margin-right: 0;
